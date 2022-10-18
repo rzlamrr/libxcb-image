@@ -1,6 +1,6 @@
 AC_PREREQ(2.59c)
-AC_INIT([xcb-util-image],[0.4.0],
-        [https://gitlab.freedesktop.org/xorg/lib/libxcb-image/issues],
+AC_INIT([xcb-util-image], [0.4.1],
+        [https://gitlab.freedesktop.org/xorg/lib/libxcb-image/-/issues],
         [xcb-util-image])
 AC_CONFIG_SRCDIR([Makefile.am])
 AC_CONFIG_HEADERS([config.h])
